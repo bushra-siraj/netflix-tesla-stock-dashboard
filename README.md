@@ -13,7 +13,7 @@ This dashboard allows financial analysts and investors to quickly compare the pr
 | Feature | Description |
 | :--- | :--- |
 | **Interactive Line Chart** | Visualize closing prices over time with zoom and hover capabilities using Plotly. |
-| **Metric Flip Cards** | View the latest price and daily change on the front; hover to flip and see High/Low/Volume stats on the back. |
+| **Key Performance Metrics** | View the latest price and daily change on the front; hover to flip and see High/Low/Volume stats on the back. |
 | **Date Range Filter** | Select specific timeframes to analyze trends during specific market periods. |
 | **Data Download** | Option to view and download the merged raw data used in the analysis. |
 
@@ -29,7 +29,10 @@ This dashboard allows financial analysts and investors to quickly compare the pr
 
 ## 👩 Author 
 
-**Name:** **[Bushra]**
-**LinkedIn:** **[linkedin.com/in/bushra-sira]**
-**GitHub:** **[https://github.com/bushra-siraj]**
-**Email:** **[BushraSiraj586@gmail.com]**
+* **Name:** **[Bushra]**
+* **LinkedIn:** **[linkedin.com/in/bushra-siraj]**
+* **GitHub:** **[https://github.com/bushra-siraj]**
+* **Email:** **[BushraSiraj586@gmail.com]**
+
+<img width="960" height="451" alt="Screenshot 2026-02-10 165607" src="https://github.com/user-attachments/assets/fa60f639-fe8c-4cbf-88eb-f81929ab5fb0" />
+
