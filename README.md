@@ -30,7 +30,7 @@ This dashboard allows financial analysts and investors to quickly compare the pr
 ## 👩 Author 
 
 * **Name:** **[Bushra]**
-* **LinkedIn:** **[linkedin.com/in/bushra-siraj]**
+* **LinkedIn:** **[linkedin.com/in/bushra-sira]**
 * **GitHub:** **[https://github.com/bushra-siraj]**
 * **Email:** **[BushraSiraj586@gmail.com]**
 
